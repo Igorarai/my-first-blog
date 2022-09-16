@@ -1,3 +1,0 @@
-Caminho Ambiente Virtual
-
-C:\Users\Igor\aprendendo_django
